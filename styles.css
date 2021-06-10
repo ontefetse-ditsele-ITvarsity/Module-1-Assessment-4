@@ -1,0 +1,15 @@
+
+table, th, td {
+    border: 1px solid black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  th{
+    background-color: #04AA6D;
+    color: white
+    
+  }
